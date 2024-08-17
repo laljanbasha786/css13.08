@@ -1,0 +1,46 @@
+body{
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKQJhsgxEKYaqwJTx8fsT5ubTYZZUFj8azqw&s");
+background-repeat: no-repeat;
+ background-size: 100% 100%;
+}
+div{
+    width: 300px;height: 300px;
+
+}
+#A{
+    object-fit: cover;
+    box-shadow: 2px 3px 2px red;
+
+}
+#S{
+    object-fit:contain;
+    box-shadow: 2px 3px 2px blue;
+}
+#p1{
+ color: white;
+ font-style: italic;
+ font-family: cursive;
+ font-weight: 800;
+ background-color:blue;
+ 
+}
+#p2{
+    color: white;
+    text-decoration:underline ;
+    text-shadow: 3px 3px 2px brown; 
+    text-align: right;
+      
+
+}
+#p3{
+    color: white;
+    font-style: inherit;
+    text-transform:uppercase;
+    text-decoration: overline;
+}
+#H{
+ background: linear-gradient(orange,green,brown);
+ width: 200px;
+ height: 250px;
+ box-shadow:3px 2px 2px brown;
+}
